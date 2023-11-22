@@ -17,7 +17,7 @@
     "@mui/material": "^5.14.4",
     "@withvoid/make-validation": "^1.0.5",
     "bcrypt": "^5.0.1",
-    "cloudinary": "^1.25.2",
+    "cloudinary": "^1.41.0",
     "concurrently": "^6.2.0",
     "connect-flash": "^0.1.1",
     "cookie-parser": "^1.4.5",
