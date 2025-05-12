@@ -14,9 +14,9 @@
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
-    "@mui/material": "^5.14.4",
+    "@mui/material": "^7.0.0",
     "@withvoid/make-validation": "^1.0.5",
-    "bcrypt": "^5.0.1",
+    "bcrypt": "^6.0.0",
     "cloudinary": "^1.25.2",
     "concurrently": "^6.2.0",
     "connect-flash": "^0.1.1",
